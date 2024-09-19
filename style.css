@@ -1,3 +1,6 @@
 .header-bg {
     background-image: url('./images/bg.webp');
 }
+.portfolio-img img {
+    width: 350px;
+}
